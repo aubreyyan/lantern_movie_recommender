@@ -1,0 +1,6 @@
+DB_NAME = "ourdb"
+DB_USER = "postgres"
+DB_PASS = "postgres"
+DB_HOST = "localhost"
+DB_PORT = "5432"
+MOVIES_TABLE_NAME = "movies"
